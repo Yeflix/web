@@ -1,0 +1,16 @@
+2023-07-24 10:39:55.563 [info] Extension host with pid 1147 started
+2023-07-24 10:39:55.678 [info] Lock '/home/yefferzn/.vscode-server/data/User/workspaceStorage/1650089fce88dd5fd491e855a4cf5185/vscode.lock': Lock acquired.
+2023-07-24 10:39:55.764 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-07-24 10:39:55.766 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-07-24 10:39:56.728 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-07-24 10:39:57.131 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-07-24 10:39:57.132 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-07-24 10:39:57.315 [info] Eager extensions activated
+2023-07-24 10:39:57.316 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-07-24 10:39:57.316 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-07-24 10:39:57.317 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-07-24 10:40:03.614 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-07-24 10:40:03.615 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-07-24 10:43:41.359 [info] Extension host terminating: received terminate message from renderer
+2023-07-24 10:43:41.360 [info] Lock '/home/yefferzn/.vscode-server/data/User/workspaceStorage/1650089fce88dd5fd491e855a4cf5185/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-07-24 10:43:41.460 [info] Extension host with pid 1147 exiting with code 0

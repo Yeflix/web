@@ -1,0 +1,16 @@
+2023-07-24 10:20:15.718 [info] Extension host with pid 274 started
+2023-07-24 10:20:15.827 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-07-24 10:20:15.944 [info] Lock '/home/yefferzn/.vscode-server/data/User/workspaceStorage/1650089fce88dd5fd491e855a4cf5185/vscode.lock': Lock acquired.
+2023-07-24 10:20:15.964 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-07-24 10:20:16.075 [info] Eager extensions activated
+2023-07-24 10:20:16.076 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-07-24 10:20:16.076 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-07-24 10:20:21.310 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-07-24 10:20:23.303 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-07-24 10:20:23.304 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-07-24 10:28:16.611 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-07-24 10:31:29.951 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-07-24 10:31:29.952 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-07-24 10:36:02.444 [info] Extension host terminating: received terminate message from renderer
+2023-07-24 10:36:02.444 [info] Lock '/home/yefferzn/.vscode-server/data/User/workspaceStorage/1650089fce88dd5fd491e855a4cf5185/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-07-24 10:36:02.515 [info] Extension host with pid 274 exiting with code 0

@@ -1,0 +1,32 @@
+2023-07-24 10:20:13.448 [info] 
+
+
+
+
+2023-07-24 10:20:13.448 [info] Extension host agent started.
+2023-07-24 10:20:13.466 [info] Started initializing default profile extensions in extensions installation folder. file:///home/yefferzn/.vscode-server/extensions
+2023-07-24 10:20:13.670 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/yefferzn/.vscode-server/extensions
+2023-07-24 10:20:14.178 [info] [127.0.0.1][9fc13c72][ManagementConnection] New connection established.
+2023-07-24 10:20:14.186 [info] [127.0.0.1][f93e683c][ExtensionHostConnection] New connection established.
+2023-07-24 10:20:14.273 [info] [127.0.0.1][f93e683c][ExtensionHostConnection] <274> Launched Extension Host Process.
+2023-07-24 10:28:03.569 [info] Getting Manifest... ritwickdey.liveserver
+2023-07-24 10:28:03.925 [info] Installing extension: ritwickdey.liveserver
+2023-07-24 10:28:10.241 [info] Extension signature is verified: ritwickdey.liveserver
+2023-07-24 10:28:16.200 [info] Extracted extension to /home/yefferzn/.vscode-server/extensions/.231edd5e-1aa9-4c94-b5c5-e2d3756fdb76: ritwickdey.liveserver
+2023-07-24 10:28:16.301 [info] Renamed to /home/yefferzn/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2023-07-24 10:28:16.304 [info] Extracting extension completed. ritwickdey.liveserver
+2023-07-24 10:28:16.356 [info] Extension installed successfully: ritwickdey.liveserver
+2023-07-24 10:36:02.442 [info] [127.0.0.1][9fc13c72][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-07-24 10:36:02.527 [info] [127.0.0.1][f93e683c][ExtensionHostConnection] <274> Extension Host Process exited with code: 0, signal: null.
+2023-07-24 10:36:04.422 [info] [127.0.0.1][7703121e][ManagementConnection] New connection established.
+2023-07-24 10:36:04.616 [info] [127.0.0.1][ff6d1db1][ExtensionHostConnection] New connection established.
+2023-07-24 10:36:04.637 [info] [127.0.0.1][ff6d1db1][ExtensionHostConnection] <585> Launched Extension Host Process.
+2023-07-24 10:36:17.199 [info] [127.0.0.1][2cb70fd5][ManagementConnection] New connection established.
+2023-07-24 10:36:17.600 [info] [127.0.0.1][3a06c6b4][ExtensionHostConnection] New connection established.
+2023-07-24 10:36:17.604 [info] [127.0.0.1][3a06c6b4][ExtensionHostConnection] <655> Launched Extension Host Process.
+2023-07-24 10:38:16.673 [info] [127.0.0.1][7703121e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-07-24 10:38:16.711 [info] [127.0.0.1][ff6d1db1][ExtensionHostConnection] <585> Extension Host Process exited with code: 0, signal: null.
+2023-07-24 10:38:33.768 [info] [127.0.0.1][2cb70fd5][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-07-24 10:38:33.842 [info] [127.0.0.1][3a06c6b4][ExtensionHostConnection] <655> Extension Host Process exited with code: 0, signal: null.
+2023-07-24 10:38:35.697 [info] [127.0.0.1][2bd13a4a][ManagementConnection] New connection established.
+2023-07-24 10:38:35.719 [info] [127.0.0.1][2bd13a4a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.

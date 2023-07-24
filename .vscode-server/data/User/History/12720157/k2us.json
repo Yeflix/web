@@ -1,0 +1,17 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.editor.untitled.hint": "hidden",
+    "editor.minimap.enabled": false,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "Latino-propiedades.RutaBinarioLatino": "C:/Program Files/Latino/bin/latino.exe",
+    "workbench.colorTheme": "Platzi Theme Green Mode",
+    "workbench.iconTheme": "material-icon-theme", 
+    "liveServer.settings.donotShowInfoMsg": true,
+"liveServer.settings.useLocalIp": true,
+"liveServer.settings.ChromeDebuggingAttachment": false,
+"liveServer.settings. AdvanceCustomBrowserCmdLine": "/mnt/c/Program Files/Google/Chrome/Application/chrome.exe"
+    
+    
+}
